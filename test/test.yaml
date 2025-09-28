@@ -1,6 +1,6 @@
 train: ''
 val: ''
-test: /content/test/images
+test: ./test/images
 names:
   0: icon
   1: panel
