@@ -3,4 +3,3 @@ val: ''
 test: ./images
 names:
   0: icon
-  1: panel
